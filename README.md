@@ -5,3 +5,5 @@ Get it, 3 (Free) Activate
 Copy This command into POwershell with Admin Permissions:
 
 `irm https://get.activated.win | iex`
+
+# Windows Standalone Activator
